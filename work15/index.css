@@ -132,3 +132,12 @@
 .cart-bottom-btn:hover{
     background: #FF6600;
 }
+.cart-unall{
+    color: blue;
+}
+.cart-unall:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
